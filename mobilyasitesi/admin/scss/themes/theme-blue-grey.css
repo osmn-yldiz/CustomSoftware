@@ -1,0 +1,72 @@
+.theme-blue-grey .navbar {
+  background-color: #607D8B;
+}
+
+.theme-blue-grey .navbar-brand {
+  color: #fff;
+}
+
+.theme-blue-grey .navbar-brand:hover {
+  color: #fff;
+}
+
+.theme-blue-grey .navbar-brand:active {
+  color: #fff;
+}
+
+.theme-blue-grey .navbar-brand:focus {
+  color: #fff;
+}
+
+.theme-blue-grey .nav > li > a {
+  color: #fff;
+}
+
+.theme-blue-grey .nav > li > a:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue-grey .nav > li > a:focus {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue-grey .nav .open > a {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue-grey .nav .open > a:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue-grey .nav .open > a:focus {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue-grey .bars {
+  color: #fff;
+}
+
+.theme-blue-grey .sidebar .menu .list li.active {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue-grey .sidebar .menu .list li.active > :first-child i, .theme-blue-grey .sidebar .menu .list li.active > :first-child span {
+  color: #607D8B;
+}
+
+.theme-blue-grey .sidebar .menu .list .toggled {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue-grey .sidebar .menu .list .ml-menu {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue-grey .sidebar .legal {
+  background-color: #fff;
+}
+
+.theme-blue-grey .sidebar .legal .copyright a {
+  color: #607D8B !important;
+}
+/*# sourceMappingURL=theme-blue-grey.css.map */

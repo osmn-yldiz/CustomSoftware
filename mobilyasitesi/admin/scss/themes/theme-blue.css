@@ -1,0 +1,72 @@
+.theme-blue .navbar {
+  background-color: #2196F3;
+}
+
+.theme-blue .navbar-brand {
+  color: #fff;
+}
+
+.theme-blue .navbar-brand:hover {
+  color: #fff;
+}
+
+.theme-blue .navbar-brand:active {
+  color: #fff;
+}
+
+.theme-blue .navbar-brand:focus {
+  color: #fff;
+}
+
+.theme-blue .nav > li > a {
+  color: #fff;
+}
+
+.theme-blue .nav > li > a:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue .nav > li > a:focus {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue .nav .open > a {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue .nav .open > a:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue .nav .open > a:focus {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue .bars {
+  color: #fff;
+}
+
+.theme-blue .sidebar .menu .list li.active {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue .sidebar .menu .list li.active > :first-child i, .theme-blue .sidebar .menu .list li.active > :first-child span {
+  color: #2196F3;
+}
+
+.theme-blue .sidebar .menu .list .toggled {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue .sidebar .menu .list .ml-menu {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-blue .sidebar .legal {
+  background-color: #fff;
+}
+
+.theme-blue .sidebar .legal .copyright a {
+  color: #2196F3 !important;
+}
+/*# sourceMappingURL=theme-blue.css.map */

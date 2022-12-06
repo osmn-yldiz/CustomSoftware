@@ -1,0 +1,72 @@
+.theme-indigo .navbar {
+  background-color: #3F51B5;
+}
+
+.theme-indigo .navbar-brand {
+  color: #fff;
+}
+
+.theme-indigo .navbar-brand:hover {
+  color: #fff;
+}
+
+.theme-indigo .navbar-brand:active {
+  color: #fff;
+}
+
+.theme-indigo .navbar-brand:focus {
+  color: #fff;
+}
+
+.theme-indigo .nav > li > a {
+  color: #fff;
+}
+
+.theme-indigo .nav > li > a:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-indigo .nav > li > a:focus {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-indigo .nav .open > a {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-indigo .nav .open > a:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-indigo .nav .open > a:focus {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-indigo .bars {
+  color: #fff;
+}
+
+.theme-indigo .sidebar .menu .list li.active {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-indigo .sidebar .menu .list li.active > :first-child i, .theme-indigo .sidebar .menu .list li.active > :first-child span {
+  color: #3F51B5;
+}
+
+.theme-indigo .sidebar .menu .list .toggled {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-indigo .sidebar .menu .list .ml-menu {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-indigo .sidebar .legal {
+  background-color: #fff;
+}
+
+.theme-indigo .sidebar .legal .copyright a {
+  color: #3F51B5 !important;
+}
+/*# sourceMappingURL=theme-indigo.css.map */
